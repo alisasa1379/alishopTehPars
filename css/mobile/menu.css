@@ -31,6 +31,7 @@ header {
   box-sizing: border-box;
   box-shadow: 5px 5px 25px black;
   transition: 500ms;
+  z-index: 3;
   .closeBtn {
     display: block;
     width: fit-content;
